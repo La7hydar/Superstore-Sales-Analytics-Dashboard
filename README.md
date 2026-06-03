@@ -3,7 +3,7 @@
 Excel | Pivot Table | Data Visualization | Business Analytics
 
 ## 📌 Project Overview
-![Dashboard](SuperStore Analysis/Dashboard.png)
+![Dashboard]([SuperStore Analysis/Dashboard.png](https://github.com/La7hydar/Superstore-Sales-Analytics-Dashboard/blob/ea5483b40c7048a02d46b296492178dd95209a7a/SuperStore%20Analysis/Dashboard.png))
 
 This project presents an interactive Business Intelligence Dashboard built using the Superstore dataset. The dashboard provides a comprehensive overview of business performance, sales trends, customer behavior, and profitability metrics. The goal is to transform raw transactional data into actionable business insights that support data-driven decision making.
 
